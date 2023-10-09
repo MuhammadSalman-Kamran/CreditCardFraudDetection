@@ -1,4 +1,5 @@
 # CreditCardFraudDetection
+![Alt](https://github.com/MuhammadSalman-Kamran/CreditCardFraudDetection/blob/main/dataset-cover.jpg?raw=true)
 
 <p align = 'justify'>This project delves into the critical domain of anomaly detection, a fundamental task in data analysis and machine learning. Anomaly detection plays a pivotal role in identifying rare, unusual, and potentially fraudulent data points within large datasets, making it invaluable in various applications, including fraud detection, network security, and quality control.</p>
 
